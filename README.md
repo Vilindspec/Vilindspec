@@ -1,4 +1,4 @@
--# 👋 Hi, I’m @Vilindspec
+# 👋 Hi, I’m @Vilindspec
 
 - I’m interested in crafting beautiful, functional, and responsive websites that make an impact.  
 -  I’m currently learning full-stack development with **100Devs** and enhancing my skills in HTML, CSS, JavaScript, and more.  
